@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "45109927505",
+    "firebase_url": "https://dotx-76555.firebaseio.com",
+    "project_id": "dotx-76555",
+    "storage_bucket": "dotx-76555.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45109927505:android:a32c0ef42cec0a26",
+        "android_client_info": {
+          "package_name": "com.example.vishnu.gridgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45109927505-2pej22qc8092d6p6144e5cepdst881qs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vishnu.gridgame",
+            "certificate_hash": "3553bb3ca8665320204274504b41721a2fda66c8"
+          }
+        },
+        {
+          "client_id": "45109927505-or3982a6n76skoab858999i2fr8qrrrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtgzfzIIzhSOLv375feKiB2e3LVUlRuWs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45109927505-or3982a6n76skoab858999i2fr8qrrrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

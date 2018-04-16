@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vishnu\Desktop\D.O.T.X\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1cc6b9915acf556fd8f5d114cd4e1946754ae73">
+        <dex dex="C:\Users\Vishnu\Desktop\D.O.T.X\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0befbf56159999d0d107bca0c8c86e887a04beda\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishnu\.android\build-cache\100e8effac7a3fa6289db4013e1e0102ea984d3e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Vishnu\Desktop\D.O.T.X\app\build\intermediates\pre-dexed\debug\classes_b495f81f6115900178df8c2469e5a76a2fe2f6c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishnu\.android\build-cache\b2325a8225263beeb64399bc55db67ad71d63735\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Vishnu\Desktop\D.O.T.X\app\build\intermediates\pre-dexed\debug\classes_a6ba8e3c578d6df23b9c576a763b5a3adcf0f197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishnu\.android\build-cache\4bc81d6c3a2fc19b2ddf61c9b881c4cac288f72e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Vishnu\Desktop\D.O.T.X\app\build\intermediates\pre-dexed\debug\classes_82591058f39b94d6bb4ac18b225b943001691208.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishnu\.android\build-cache\c3eee6b1e1e626085292f764c7ce319938534a39\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Vishnu\Desktop\D.O.T.X\app\build\intermediates\pre-dexed\debug\classes_689a0eafe8021af3f3083701d07a8939d30af701.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vishnu\Desktop\D.O.T.X\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Vishnu\Desktop\D.O.T.X\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a4c684fcc4cf3ec13849e4fef30b6d84706c9e2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishnu\.android\build-cache\be955b4f4d4e6facd63e865e305c075ff3758cdb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Vishnu\Desktop\D.O.T.X\app\build\intermediates\pre-dexed\debug\classes_eed67060255e16c890a470b72436cad9e1bbb919.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishnu\.android\build-cache\edd8b4887a04872f1e18bee87b3af7cc00badb0e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Vishnu\Desktop\D.O.T.X\app\build\intermediates\pre-dexed\debug\classes_faa6931a4f9c54ac55f86787edbd7f8098147035.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishnu\.android\build-cache\18e041b277164f44ffe19ce5bda5c9091f542555\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Vishnu\Desktop\D.O.T.X\app\build\intermediates\pre-dexed\debug\classes_6d5c66be105a822718569a89eaaf6d07eb5e2a4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishnu\.android\build-cache\462535425220ace91dc8ab8d038559af32e82a9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Vishnu\Desktop\D.O.T.X\app\build\intermediates\pre-dexed\debug\classes_ac39ec902498f42ae2a321f305203f67e97e7d1e.jar" />
+    </item>
+
+</items>
